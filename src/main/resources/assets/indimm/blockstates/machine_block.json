@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "indimm:block/machine_block" }
+  }
+}

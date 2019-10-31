@@ -1,0 +1,16 @@
+[
+{
+  "modid": "indimm",
+  "name": "Industrial Immersion",
+  "description": "Expands Minecraft in industrial way",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "vooki.github.io",
+  "updateUrl": "",
+  "authorList": ["vooki"],
+  "credits": "vooki, inspired by other industrial mods",
+  "logoFile": "indimm.png",
+  "screenshots": [],
+  "dependencies": ["theoneprobe"]
+}
+]

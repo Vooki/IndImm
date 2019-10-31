@@ -1,0 +1,6 @@
+{
+  "parent": "indimm:block/coal_generator",
+  "textures": {
+    "front": "indimm:block/coal_generator_front_active"
+  }
+}

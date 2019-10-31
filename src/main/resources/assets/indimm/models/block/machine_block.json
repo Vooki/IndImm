@@ -1,0 +1,9 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "indimm:block/frame_top",
+    "bottom": "indimm:block/frame_bottom",
+    "side": "indimm:block/frame_side",
+    "front": "indimm:block/frame_side"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,active=false":  { "model": "indimm:block/macerator" },
+    "facing=east,active=false":   { "model": "indimm:block/macerator", "y": 90 },
+    "facing=south,active=false":  { "model": "indimm:block/macerator", "y": 180 },
+    "facing=west,active=false":   { "model": "indimm:block/macerator", "y": 270 },
+    "facing=north,active=true":   { "model": "indimm:block/macerator_active" },
+    "facing=east,active=true":    { "model": "indimm:block/macerator_active", "y": 90 },
+    "facing=south,active=true":   { "model": "indimm:block/macerator_active", "y": 180 },
+    "facing=west,active=true":    { "model": "indimm:block/macerator_active", "y": 270 }
+  }
+}

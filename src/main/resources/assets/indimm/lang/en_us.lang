@@ -1,0 +1,32 @@
+//Item Names
+
+item.ingot_copper.name=Copper Ingot
+item.ingot_steel.name=Steel Ingot
+
+//Gui Names
+
+
+
+//Tool Names
+
+
+
+//Armor  Names
+
+
+
+//Machines Names
+
+tile.indimm.energy_conduit.name=Energy Conduit
+tile.indimm.machine_frame.name=Machine Frame
+tile.indimm.coal_generato.namer=Coal Generator
+tile.indimm.macerator.name=Macerator
+
+//Block Names
+
+tile.block_copper.name=Block of Copper
+tile.block_steel.name=Block of Steel
+
+//Creative Tabs
+
+itemGroup.indimm_resources=IndImm Resources

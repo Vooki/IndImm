@@ -1,0 +1,6 @@
+{
+  "parent": "indimm:block/macerator",
+  "textures": {
+    "front": "indimm:block/macerator_front_active"
+  }
+}

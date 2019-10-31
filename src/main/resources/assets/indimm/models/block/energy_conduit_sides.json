@@ -1,0 +1,18 @@
+{
+  "textures": {
+    "0": "indimm:block/energy_conduit_sides",
+    "particle": "indimm:block/energy_conduit_sides"
+  },
+  "elements": [
+    {
+      "from": [5, 0, 5],
+      "to": [11, 5, 11],
+      "faces": {
+        "north": {"uv": [2, 0, 14, 10], "texture": "#0"},
+        "east": {"uv": [2, 0, 14, 10], "texture": "#0"},
+        "south": {"uv": [2, 0, 14, 10], "texture": "#0"},
+        "west": {"uv": [2, 0, 14, 10], "texture": "#0"}
+      }
+    }
+  ]
+}
