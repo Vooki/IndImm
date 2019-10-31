@@ -40,7 +40,7 @@ dependencies {
 }
 
 version = mc_version + '-' + MAJOR + '.' + MINOR + '.' + PATCH
-group = "eu.vooki99"
+group = "io.github.vooki"
 archivesBaseName = "indimm"
 
 sourceCompatibility = 1.8
